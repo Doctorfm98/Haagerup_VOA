@@ -2,7 +2,7 @@
 
 [Back to the repository guide](README.md) · [Verification instructions](docs/VERIFICATION.md)
 
-Mathematical comments, independent reproductions, expository suggestions, and corrections to references or attribution are welcome through this repository's Issues.
+Mathematical comments, independent reproductions, expository suggestions, and corrections to references or attribution are welcome.
 
 ## Mathematical feedback
 
