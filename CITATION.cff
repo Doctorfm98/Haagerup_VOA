@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the working manuscript and the release snapshot used for your calculations."
+type: dataset
+title: "A lattice construction of the Haagerup center: working manuscript and computational certificates"
+authors:
+  - family-names: Riesen
+    given-names: Andrew
+version: "snapshot-2026-10-09"
+date-released: 2026-10-09
+url: "https://github.com/Doctorfm98/Haagerup_VOA/releases/tag/snapshot-2026-10-09"
+repository-code: "https://github.com/Doctorfm98/Haagerup_VOA"
+keywords:
+  - vertex operator algebras
+  - Haagerup fusion category
+  - computational certificates
