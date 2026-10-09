@@ -2,7 +2,7 @@
 
 **Andrew Riesen — working manuscript and computational certificates**
 
-The manuscript *A lattice construction of the Haagerup center* presents an explicit vertex operator algebra inside the lattice VOA associated with $E_6\oplus A_2$, together with an argument identifying its representation category with the Drinfeld center of the Haagerup fusion category. The construction has central charge eight and weight-one Lie algebra $\mathfrak{sl}_2\oplus\mathfrak{sl}_2$ at levels 1 and 39.
+The manuscript *The Haagerup VOA at central charge eight* presents an explicit vertex operator algebra inside the lattice VOA associated with $E_6\oplus A_2$, together with an argument identifying its representation category with the Drinfeld center of the Haagerup fusion category. The construction has central charge eight and weight-one Lie algebra $\mathfrak{sl}_2\oplus\mathfrak{sl}_2$ at levels 1 and 39.
 
 ## Download and read
 
